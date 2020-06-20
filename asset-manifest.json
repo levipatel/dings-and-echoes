@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dings-and-echoes/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dings-and-echoes/static/js/main.b2f3c466.chunk.js",
+    "main.js.map": "/dings-and-echoes/static/js/main.b2f3c466.chunk.js.map",
+    "runtime-main.js": "/dings-and-echoes/static/js/runtime-main.06202257.js",
+    "runtime-main.js.map": "/dings-and-echoes/static/js/runtime-main.06202257.js.map",
+    "static/js/2.f14e8b6d.chunk.js": "/dings-and-echoes/static/js/2.f14e8b6d.chunk.js",
+    "static/js/2.f14e8b6d.chunk.js.map": "/dings-and-echoes/static/js/2.f14e8b6d.chunk.js.map",
+    "index.html": "/dings-and-echoes/index.html",
+    "precache-manifest.caa59f968a7c646a08b66f6476d3c7d1.js": "/dings-and-echoes/precache-manifest.caa59f968a7c646a08b66f6476d3c7d1.js",
+    "service-worker.js": "/dings-and-echoes/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dings-and-echoes/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f14e8b6d.chunk.js.LICENSE.txt": "/dings-and-echoes/static/js/2.f14e8b6d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dings-and-echoes/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06202257.js",
+    "static/js/2.f14e8b6d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b2f3c466.chunk.js"
+  ]
+}
