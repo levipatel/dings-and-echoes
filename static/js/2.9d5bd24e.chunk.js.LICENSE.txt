@@ -4,6 +4,13 @@ object-assign
 @license MIT
 */
 
+/**
+ * Tone.js
+ * @author Yotam Mann
+ * @license http://opensource.org/licenses/MIT MIT License
+ * @copyright 2014-2019 Yotam Mann
+ */
+
 /** @license React v0.19.1
  * scheduler.production.min.js
  *
