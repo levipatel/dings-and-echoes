@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a05137c9485b77aa89024d6abb9610e",
+    "revision": "a39bbfc3e03aae769399d9b392ff6ad3",
     "url": "/dings-and-echoes/index.html"
   },
   {
-    "revision": "fe6c813511a67feff97a",
+    "revision": "5a68765e883e425f1289",
     "url": "/dings-and-echoes/static/css/main.5ed4cec5.chunk.css"
   },
   {
-    "revision": "7239a37a1d229573feaf",
-    "url": "/dings-and-echoes/static/js/2.7c73f02d.chunk.js"
+    "revision": "8e782963c61591d523f6",
+    "url": "/dings-and-echoes/static/js/2.9d5bd24e.chunk.js"
   },
   {
     "revision": "e58b2fed1a83725c5b0108382043ede5",
-    "url": "/dings-and-echoes/static/js/2.7c73f02d.chunk.js.LICENSE.txt"
+    "url": "/dings-and-echoes/static/js/2.9d5bd24e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe6c813511a67feff97a",
-    "url": "/dings-and-echoes/static/js/main.ad6aefa6.chunk.js"
+    "revision": "5a68765e883e425f1289",
+    "url": "/dings-and-echoes/static/js/main.d64880ec.chunk.js"
   },
   {
     "revision": "2d75df8b0a21c072b099",
@@ -26,5 +26,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "024ebba1cb63c9e97685750e28c128a0",
     "url": "/dings-and-echoes/static/media/ding-1.024ebba1.wav"
+  },
+  {
+    "revision": "4dcb1aa68c59149c631c469346c36566",
+    "url": "/dings-and-echoes/static/media/shaker-1.4dcb1aa6.wav"
   }
 ]);
