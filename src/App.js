@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Canvas from './Canvas'
+import Canvas from './Canvas';
 
 function App() {
   return (
